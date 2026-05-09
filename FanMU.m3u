@@ -15,3 +15,5 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8
 #EXTINF:-1 tvg-logo="Link_ảnh_logo" group-title="Hội Quán TV", BLV Phan Hà Linh
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8
+#EXTINF:-1 tvg-logo="Link_ảnh_logo" group-title="Chuối Chiên TV", BLV Chuối Đồng
+https://gckc0525.edgemaxcdn.org/live/chuoidong/playlist.m3u8
