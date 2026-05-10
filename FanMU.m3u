@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="Link_ảnh_logo" group-title="Thiên Đình TV", BLV Thần Thông 
+#EXTINF:-1 tvg-logo="https://b.upanh.tv/iPZzPpqfz.png" group-title="Thiên Đình TV", BLV Thần Thông 
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 tvg-logo="Link_ảnh_logo" group-title="Tam Quốc TV", BLV Ricky
 https://tqlive.yarncdn.live/live/tqtv_blv_ricky/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://b.upanh.tv/CWFZzY.jpg" group-title="Hội Quán TV", BLV Thiên Lôi 
+#EXTINF:-1 tvg-logo="https://b.upanh.tv/yyyezFdgb.png" group-title="Hội Quán TV", BLV Thiên Lôi 
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://b.upanh.tv/CWFZzY.jpg" group-title="Hội Quán TV", BLV Phan Mã
+#EXTINF:-1 tvg-logo="https://b.upanh.tv/yyyezFdgb.png" group-title="Hội Quán TV", BLV Phan Mã
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://b.upanh.tv/CWFZzY.jpg" group-title="Hội Quán TV", BLV Phan Chớp
+#EXTINF:-1 tvg-logo="https://b.upanh.tv/yyyezFdgb.png" group-title="Hội Quán TV", BLV Phan Chớp
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8
 #EXTINF:-1 tvg-logo="Link_ảnh_logo" group-title="Xây Con TV", BLV Xây Con
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
-#EXTINF:-1 tvg-logo="Link_ảnh_logo" group-title="Thiên Đình TV", BLV Ngọc Hoàng
+#EXTINF:-1 tvg-logo="https://b.upanh.tv/iPZzPpqfz.png" group-title="Thiên Đình TV", BLV Ngọc Hoàng
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://b.upanh.tv/CWFZzY.jpg" group-title="Hội Quán TV", BLV Phan Hà Linh
+#EXTINF:-1 tvg-logo="https://b.upanh.tv/yyyezFdgb.png" group-title="Hội Quán TV", BLV Phan Hà Linh
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8
 #EXTINF:-1 tvg-logo="Link_ảnh_logo" group-title="Chuối Chiên TV", BLV Chuối Đồng
 https://gckc0525.edgemaxcdn.org/live/chuoidong/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://b.upanh.tv/CWFZzY.jpg" group-title="Hội Quán TV", BLV Phan Anh
+#EXTINF:-1 tvg-logo="https://b.upanh.tv/yyyezFdgb.png" group-title="Hội Quán TV", BLV Phan Anh
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://b.upanh.tv/CWFZzY.jpg" group-title="Hội Quán TV", BLV Lương Bổng
+#EXTINF:-1 tvg-logo="https://b.upanh.tv/yyyezFdgb.png" group-title="Hội Quán TV", BLV Lương Bổng
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
